@@ -1,0 +1,21 @@
+.map{
+    width: 100%;
+    height: 90vh;
+}
+
+.draw-app{
+    top: 65px;
+    left: .5em;
+}
+
+.ol-touch .draw-app {
+    top: 80px;
+  }
+
+
+ /* popup style */
+ .ol-popup {
+    max-width:300px;
+    min-width:100px;
+    min-height:1em;
+  }
